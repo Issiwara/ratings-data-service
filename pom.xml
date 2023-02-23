@@ -35,8 +35,9 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-			<finalName>ratings-data-service</finalName>
+			
 		</plugins>
+		<finalName>ratings-data-service</finalName>
 	</build>
 
 </project>
